@@ -9,31 +9,31 @@
       "name": "IV liga",
       "season": "2026/2027",
       "json_file": "iv_liga.json",
-      "joomsport_url": ""
+      "90minut_url": ""
     },
     {
       "name": "KO Wrocław",
       "season": "2026/2027",
       "json_file": "ko_wroclaw.json",
-      "joomsport_url": ""
+      "90minut_url": ""
     },
     {
       "name": "KO Jelenia Góra",
       "season": "2026/2027",
       "json_file": "ko_jg.json",
-      "joomsport_url": ""
+      "90minut_url": ""
     },
     {
       "name": "KO Legnica",
       "season": "2026/2027",
       "json_file": "ko_legnica.json",
-      "joomsport_url": ""
+      "90minut_url": ""
     },
     {
       "name": "KO Wałbrzych",
       "season": "2026/2027",
       "json_file": "ko_walbrzych.json",
-      "joomsport_url": ""
+      "90minut_url": ""
     }
   ]
 }
