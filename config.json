@@ -1,39 +1,36 @@
 {
-  "github": {
-    "owner": "TWOJ_LOGIN_GITHUB",
-    "repo": "doprzerwy-updater",
-    "branch": "main"
-  },
+  "season": "2026/2027",
+  "branch": "main",
   "leagues": [
     {
+      "id": "iv_liga",
       "name": "IV liga",
-      "season": "2026/2027",
       "json_file": "iv_liga.json",
-      "90minut_url": ""
+      "source_url": ""
     },
     {
-      "name": "KO Wrocław",
-      "season": "2026/2027",
+      "id": "ko_wroclaw",
+      "name": "Klasa okręgowa Wrocław",
       "json_file": "ko_wroclaw.json",
-      "90minut_url": ""
+      "source_url": ""
     },
     {
-      "name": "KO Jelenia Góra",
-      "season": "2026/2027",
+      "id": "ko_jg",
+      "name": "Klasa okręgowa Jelenia Góra",
       "json_file": "ko_jg.json",
-      "90minut_url": ""
+      "source_url": ""
     },
     {
-      "name": "KO Legnica",
-      "season": "2026/2027",
+      "id": "ko_legnica",
+      "name": "Klasa okręgowa Legnica",
       "json_file": "ko_legnica.json",
-      "90minut_url": ""
+      "source_url": ""
     },
     {
-      "name": "KO Wałbrzych",
-      "season": "2026/2027",
+      "id": "ko_walbrzych",
+      "name": "Klasa okręgowa Wałbrzych",
       "json_file": "ko_walbrzych.json",
-      "90minut_url": ""
+      "source_url": ""
     }
   ]
 }
